@@ -4,7 +4,7 @@ A demo project for the fork of OpenFracture.
 
 ## Installing
 
-Prior to opening the scene in Unity, the following assets should be placed in `Assets\TestObjects/`:
+Prior to opening the scene in Unity, the following assets should be placed in `Assets/TestObjects/`:
 
  - binoculars\_low.fbx
  - charcoal\_grill\_low.fbx
