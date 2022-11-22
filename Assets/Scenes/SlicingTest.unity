@@ -2044,7 +2044,7 @@ MonoBehaviour:
     enableReslicing: 0
     maxResliceCount: 1
     detectFloatingFragments: 0
-    insideMaterial: {fileID: 0}
+    insideMaterial: {fileID: 2100000, guid: 5b762f42d3498c64eb3e6b8c8284a09d, type: 2}
     textureScale: {x: 1, y: 1}
     textureOffset: {x: 0, y: 0}
     invokeCallbacks: 0
